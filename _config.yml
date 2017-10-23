@@ -3,5 +3,5 @@ name: IkSung Lee, studio
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 =======
-theme: jekyll-theme-architect
+theme: jekyll-theme-cayman
 >>>>>>> 3e23e73febc15d144e38ca1c0e7fc9604ca0c279
